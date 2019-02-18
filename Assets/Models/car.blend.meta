@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 765765494b6bb304abcd2a955efc2c72
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cube_001
+    100006: Cube_002
+    100008: Cylinder
+    100010: Cylinder_001
+    100012: wheel
+    100014: wheel_raw
+    100016: wheel_rot
+    100018: barrel
+    100020: barrel_hinge
+    100022: body
+    100024: cage
+    100026: person
+    100028: turret
+    100030: turret_attach
+    100032: wheel_fl
+    100034: wheel_fr
+    100036: wheel_rl
+    100038: wheel_rr
+    100040: base_car
+    100042: wheel_fr_001
+    100044: front_bars
+    100046: cannon
+    400000: //RootNode
+    400002: Cube
+    400004: Cube_001
+    400006: Cube_002
+    400008: Cylinder
+    400010: Cylinder_001
+    400012: wheel
+    400014: wheel_raw
+    400016: wheel_rot
+    400018: barrel
+    400020: barrel_hinge
+    400022: body
+    400024: cage
+    400026: person
+    400028: turret
+    400030: turret_attach
+    400032: wheel_fl
+    400034: wheel_fr
+    400036: wheel_rl
+    400038: wheel_rr
+    400040: base_car
+    400042: wheel_fr_001
+    400044: front_bars
+    400046: cannon
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cylinder
+    2300008: Cylinder_001
+    2300010: wheel
+    2300012: wheel_raw
+    2300014: barrel
+    2300016: barrel_hinge
+    2300018: body
+    2300020: cage
+    2300022: person
+    2300024: turret
+    2300026: turret_attach
+    2300028: wheel_fl
+    2300030: wheel_fr
+    2300032: wheel_rl
+    2300034: wheel_rr
+    2300036: wheel_fr_001
+    2300038: front_bars
+    2300040: cannon
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cylinder
+    3300008: Cylinder_001
+    3300010: wheel
+    3300012: wheel_raw
+    3300014: barrel
+    3300016: barrel_hinge
+    3300018: body
+    3300020: cage
+    3300022: person
+    3300024: turret
+    3300026: turret_attach
+    3300028: wheel_fl
+    3300030: wheel_fr
+    3300032: wheel_rl
+    3300034: wheel_rr
+    3300036: wheel_fr_001
+    3300038: front_bars
+    3300040: cannon
+    4300000: Cylinder_001
+    4300002: Cube_002
+    4300004: Cube
+    4300006: Cube_001
+    4300008: Cylinder
+    4300010: wheel_raw
+    4300012: wheel
+    4300014: turret
+    4300016: barrel_hinge
+    4300018: barrel
+    4300020: turret_attach
+    4300022: cage
+    4300024: body
+    4300026: person
+    4300028: wheel_rl
+    4300030: wheel_rr
+    4300032: wheel_fr
+    4300034: wheel_fl
+    4300036: wheel_fr_001
+    4300038: front_bars
+    4300040: cannon
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: c96ef104d1295e6449289318f9097406, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
